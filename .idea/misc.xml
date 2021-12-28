@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_base.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_login.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_my_order_list.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_notification.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_notification_details.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_profile.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/activity_sign.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/app_bar_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_mycard.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_myoder.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_noti.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_oder.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_prize.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/custome_sumrry.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/fragment_card.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/fragment_category.xml" value="0.12771739130434784" />
+        <entry key="..\:/FreshGrocery/FreshGrocery/app/src/main/res/layout/fragment_home.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
